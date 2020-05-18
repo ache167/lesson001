@@ -1,6 +1,6 @@
 import platform
 import sys
-
+#strange
 info = 'OS info \n {} \n\nPython Version is {} {}'.format(
     platform.uname(), sys.version, platform.architecture()
 )
