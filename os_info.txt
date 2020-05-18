@@ -1,0 +1,4 @@
+OS info 
+ uname_result(system='Windows', node='DREAM-FACTORY', release='10', version='10.0.18362', machine='AMD64', processor='AMD64 Family 23 Model 1 Stepping 1, AuthenticAMD') 
+
+Python Version is 3.8.3 (tags/v3.8.3:6f8c832, May 13 2020, 22:37:02) [MSC v.1924 64 bit (AMD64)] ('64bit', 'WindowsPE')
